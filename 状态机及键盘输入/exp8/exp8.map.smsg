@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at exp8.v(92): always construct contains both blocking and non-blocking assignments File: C:/fpga/exp8/exp8.v Line: 92
